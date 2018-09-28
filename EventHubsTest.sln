@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubsTest", "EventHubsTest\EventHubsTest.csproj", "{4A94838D-20CA-46C5-A2F7-FF91E0DBED91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubClient", "EventHubClient\EventHubClient.csproj", "{E0C456CC-801A-4382-A63D-18E0C661B1CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A94838D-20CA-46C5-A2F7-FF91E0DBED91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A94838D-20CA-46C5-A2F7-FF91E0DBED91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A94838D-20CA-46C5-A2F7-FF91E0DBED91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A94838D-20CA-46C5-A2F7-FF91E0DBED91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C456CC-801A-4382-A63D-18E0C661B1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C456CC-801A-4382-A63D-18E0C661B1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C456CC-801A-4382-A63D-18E0C661B1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C456CC-801A-4382-A63D-18E0C661B1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4445842D-5E95-48BE-B94A-ABBC014A49C4}
+	EndGlobalSection
+EndGlobal
