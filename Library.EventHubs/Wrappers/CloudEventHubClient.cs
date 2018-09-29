@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using EventHubsTest.Configuration;
-using EventHubsTest.Messages;
-using EventHubsTest.Serializer;
+using Library.EventHubs.Configuration;
+using Library.EventHubs.Messages;
+using Library.EventHubs.Serializer;
 using Microsoft.Azure.EventHubs;
 
-namespace EventHubsTest.Wrappers
+namespace Library.EventHubs.Wrappers
 {
     public class CloudEventHubClient : ICloudEventHubClient
     {

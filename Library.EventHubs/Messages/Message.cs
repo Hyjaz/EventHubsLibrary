@@ -1,4 +1,4 @@
-﻿namespace EventHubsTest.Messages
+﻿namespace Library.EventHubs.Messages
 {
     public class Message : IMessage
     {

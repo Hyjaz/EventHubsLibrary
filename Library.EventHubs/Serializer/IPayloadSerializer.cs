@@ -1,6 +1,6 @@
-﻿using EventHubsTest.Messages;
+﻿using Library.EventHubs.Messages;
 
-namespace EventHubsTest.Serializer
+namespace Library.EventHubs.Serializer
 {
     public interface IPayloadSerializer
     {

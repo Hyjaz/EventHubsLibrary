@@ -1,8 +1,8 @@
 ﻿using System.Text;
-using EventHubsTest.Messages;
+using Library.EventHubs.Messages;
 using Newtonsoft.Json;
 
-namespace EventHubsTest.Serializer
+namespace Library.EventHubs.Serializer
 {
     public class PayloadSerializer : IPayloadSerializer
     {

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubsTest", "EventHubsTest\EventHubsTest.csproj", "{4A94838D-20CA-46C5-A2F7-FF91E0DBED91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.EventHubs", "Library.EventHubs\Library.EventHubs.csproj", "{4A94838D-20CA-46C5-A2F7-FF91E0DBED91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubClient", "EventHubClient\EventHubClient.csproj", "{E0C456CC-801A-4382-A63D-18E0C661B1CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventHubClient", "EventHubClient\EventHubClient.csproj", "{E0C456CC-801A-4382-A63D-18E0C661B1CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

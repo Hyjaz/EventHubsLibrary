@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.IO;
 using Autofac;
 using Autofac.Core;
-using EventHubsTest;
-using EventHubsTest.Configuration;
-using EventHubsTest.Messages;
-using EventHubsTest.Serializer;
-using EventHubsTest.Wrappers;
+using Library.EventHubs.Configuration;
+using Library.EventHubs.Messages;
+using Library.EventHubs.Serializer;
+using Library.EventHubs.Wrappers;
 using Newtonsoft.Json;
 
 namespace EventHubClient

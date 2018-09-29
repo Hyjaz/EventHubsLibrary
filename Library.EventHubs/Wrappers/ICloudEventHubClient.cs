@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using EventHubsTest.Messages;
+using Library.EventHubs.Messages;
 
-namespace EventHubsTest.Wrappers
+namespace Library.EventHubs.Wrappers
 {
     public interface ICloudEventHubClient
     {

@@ -1,4 +1,4 @@
-﻿namespace EventHubsTest.Configuration
+﻿namespace Library.EventHubs.Configuration
 {
     public interface IEventHubsParameters : IConnectionString
     {
